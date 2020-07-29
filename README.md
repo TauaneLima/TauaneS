@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**TauaneS/TauaneS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 -I'm 23 years old;
 - I am currently learning programming languages;
 - I am looking for an internship in the area to apply my knowledge;
