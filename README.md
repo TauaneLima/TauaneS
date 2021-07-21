@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--I'm 23 years old;
+-I'm 24 years old;
 - I am currently learning programming languages;
 - I am looking for an internship in the area to apply my knowledge;
 - I'm looking for help with JS, React and HTML5;
